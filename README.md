@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+<html>
+	<head>
+		<title>Aleudys Jose Diaz</title>
+		<link rel="stylesheet" href="style.css">
+		<a class ="active"	href="index.html">Home</a>
+		<a href="aboutMe.html">About Me</a>
+	<body>
+    <header>
+		<h1>Aleudys Jose Diaz</h1>
+  </header>
 
-You can use the [editor on GitHub](https://github.com/alchevere/website-Aleudys-Jose-Diaz/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+		<p>Once upon a time, a young kid from Dominican Republic had a dream of having his own youtube channel and decided to create one
+    and the name of the channel is ALCHEVERE.</p>
+    <img src="images/Alcheverebanner.jpg" alt="Alcheverebanner.html" width="350px" lenght="100px" />
 
-### Markdown
+		<!-- First Choice 1 -->
+    <p>when he moved to united states he created the website and share his pasion and life in New York</p>
+		<a class="choice1" href="Alcheverevideo.html"> Alchevere Videos
+		<br>
+		  <img src="images/alchevere.png" alt="alcheverelogo" width="500px" />
+		</a>
+		</br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+		<!-- Second Choice 2 -->
+		<a class="choice2" href="AleudysJoseDiaz_SpacesIsland.html"> Background and Dreams
+		<br>
+		<img src="images/AleudysJoseDiaz_SpacesIsland.jpg" alt="AleudysJoseDiaz_SpacesIsland." width="500px"/>
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alchevere/website-Aleudys-Jose-Diaz/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+    </a>
+	<br>
+            <p>Don't forget to enjoy the pictures</p>
+	</body>
+  <p class="bmcclink">if you would like to go to the BMCC website click <a href="https://www.bmcc.cuny.edu/j2ee/"><button type="button" name="bmcclink" >here.</button> </a> </p>
+</html>
+© 2019 GitHub, Inc.
